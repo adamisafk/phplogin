@@ -28,7 +28,7 @@ The above statement will create a new accounts table with a primary id, username
 
 Changing any database or table name will result in changing the sql connection parameters in authenticate.php and profile.php.
 
-Next, simply load the index.html page in a browser. If apache is local, use the URL `localhost/phplogin/index.html`
+Next, simply load the index.html page in a browser. If apache is local, use the URL [localhost/phplogin/index.html](localhost/phplogin/index.html)
 
 
 ### To Do:
