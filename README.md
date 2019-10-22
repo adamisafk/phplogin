@@ -35,4 +35,4 @@ Next, simply load the index.html page in a browser. If apache is local, use the 
 
 - [ ] Use Observer pattern to log all access to the site. Can be logged to the database or emailed to an admin. Must be flexible enough to support different login systems.
 - [ ] Use a design pattern (Composite, Decorator, or Strategy) to change the content of the homepage slightly depending on the user's security rights.
-- [ ] Use Facade to isolate database handling from the application for the potential need of changing the database.
+- [X] Use Facade to isolate database handling from the application for the potential need of changing the database.
